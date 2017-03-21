@@ -1,0 +1,91 @@
+element.style{
+}
+html {
+  margin: 0;
+}
+html{
+  font-size: 10px;
+  -webkit-tap-highlight-color:
+  rgba(0, 0, 0, 0);
+}
+html{
+  font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+bootstrap.css:1062
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+html {
+    display: block;
+}
+
+element.stylesheet{
+
+}
+.menu-body {
+  background: #fff;
+  padding-bottom: 3em;
+  margin: 0;
+}
+.text-center {
+  text-align: center;
+}
+.menu-header {
+  font-family: georgia;
+  font-size: 60px;
+  display: block;
+  font-weight:normal;
+  margin: 20px 0;
+  text-align: center;
+}
+.menu-body {
+  max-width: 680px;
+  margin: 0 auto;
+  display: block;
+  color: rgb(92, 92, 92);
+}
+
+.menu-section {
+  margin-bottom: 80px;
+}
+
+.menu-section-title {
+  font-family: georgia;
+  font-size: 50px;
+  display: block;
+  font-weight:normal;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.menu-item {
+  margin: 35px 0;
+  font-size: 18px;
+}
+
+.menu-item-name{
+  font-family: helvetica;
+  font-weight: bold;
+  border-bottom: 2px dotted rgb(213, 213, 213);
+}
+
+.menu-item-description {
+  font-style: italic;
+  font-size: .9em;
+  line-height: 1.5em;
+}
+
+.menu-item-price{
+  float: right;
+  font-weight: bold;
+  font-family: arial;
+  margin-top: -22px;
+}
